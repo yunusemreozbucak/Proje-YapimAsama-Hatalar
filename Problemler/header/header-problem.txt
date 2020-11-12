@@ -1,0 +1,14 @@
+1.sorun
+
+sitenin header görünüşünü ve navbar ayarını yaparken, 'Ana Sayfa' 'Hakkımızda' 'İletişim' yerleri sağ taraftayken sol tarafta kaldı ve düzeltemedim.
+
+"justify-content-betweeen" kodu etkili olmuyor. Flex-basis ayarını da düzgün bir şekilde yaptım.
+
+
+2.sorun
+
+navbar-light silinince toggler butonunun görünüşü siliniyor. Ama bilgisayar görünüşünde &hover özelliğim aktif olabiliyor.
+
+
+
+Çöz!
