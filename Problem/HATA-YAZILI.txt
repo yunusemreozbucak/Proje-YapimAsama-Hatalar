@@ -1,0 +1,6 @@
+HomeView js dosyası içerisinde ki 
+p etiketini düzgün bir şekilde yazmama rağmen, <b> </b> etiketleri arasında ki yazım kalın olmuyor.
+
+sass dosyasında ki hata
+
+rengini değiştirmek istiyorum değişken olarak atadığım renk etki etmiyor.
